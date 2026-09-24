@@ -1,5 +1,0 @@
-tags:
-  screenshot:
-    # Design-review renders, not assertions. Regenerate with:
-    #   flutter test test/screenshots_test.dart --run-skipped --update-goldens
-    skip: "screenshot renders are opt-in (see test/screenshots_test.dart)"
